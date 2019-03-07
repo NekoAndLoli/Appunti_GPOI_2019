@@ -1,0 +1,25 @@
+Unit¨¤ organizzativa
+
+MACROSTRUTTURA ORGANIZZATIVA		(aggregazione degli individui, vari criteri)
+ORGANIGRAMMA				(struttura gerarchica per rappresentare la macrostruttura)
+
+L'organigramma si fa su una struttura STABILE.
+L'organigramma ¨¨ una struttura gerarchica, l'individuo non pu¨° chiedere a superiori saltando gradi.
+La struttura pu¨° svilupparsi orizzontalmente o verticalmente.
+Principio di unicit¨¤ del comando (Fayol): "Ogni individuo riceve ordini da un solo superiore."
+Le unit¨¤ organizzative possono essere di due tipi:
+	- organi di linea (si occupano delle attivit¨¤ centrali dell'azienda)
+	- organi di staff (affiancano gli organi di linea come supporto)
+
+CRITERI DI RAGGRUPPAMENTO
+
+1) Numerico : il lavoro viene diviso in modo semlice						(es. turni di lavoro)
+2) Orientato agli input : raggruppati in base ai mezzi, alle competenze 			(es. reparti)(come viene fatto)
+3) Orientato agli output : raggruppati in base ai prodotti, al cliente, all'area geografica	(casa viene fatto)
+
+MECCANISMI DI COLLEGAMENTO LATERALI ORGANIZZATIVI (tra gruppi dello stesso livello) 
+
+2 figure dedicate : Product manager, Project manager.
+La produzione inizia alla fine del progetto.
+I meccanismi di collegamento di natura gestionale: pianificazione e controllo.(budget, obiettivi)
+I meccanismi di collegamento tecnologici: collegamenti uniformi tramite mezzi tecnologici. 

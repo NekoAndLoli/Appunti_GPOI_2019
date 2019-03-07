@@ -1,0 +1,16 @@
+Cosa sono i costi.
+La configurazione di costo ии un insieme di risorse il cui costo determina il costo di un prodotto.
+Le tecnologie informatiche supportano i sistemi di costing.
+G=R-C
+I costi sono classificati in fissi e variabili(semivariabili), prodotti e periodi, evitabili e non evitabili.
+
+Tipologie di costi.
+I costi di prodotto possono essere ulteriormente divisi in: lavoro diretto(manodopera), materiali diretti, indiretti di produzione(non associato al singolo prodotto)
+I costi di periodo: i costi non direttamente associabili alla realizzazione del prodotto.
+Costo di conversione(lavoro diretto+indiretti di produzione), costo pieno industriale(conversione+materiali diretti), costo aziendale(pieno aindustriale+quoota costi di periodo)
+
+I costi variabili variano in continuazione.
+I costi si definiscono fissi se in un breve intervallo non varia.
+I costi semivariabili costituiscono una linea spezzata.
+
+In base alla rilevanza decisionale i costi possono essere evitabili e non evitabili. I costi inevitabili non dipendono dalle decisioni.

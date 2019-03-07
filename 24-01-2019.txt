@@ -1,0 +1,4 @@
+I costi fissi cono costi che non variano: gli ammortamenti(spese dei macchinari) , interessi passivi, costi amministrativi, costi per fitti e assicurationi.
+I costi variabili partono con un andamento lento, ma si sviluppano in una curva quasi esponenziale.
+I costi marginali ¨¨ il costo per produrre un unit¨¤ in pi¨´.
+Break even point 2.0
