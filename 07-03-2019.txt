@@ -1,3 +1,42 @@
-Ripasso procdessi aziendali(ref 07-02-19)
-Process owner, il coordinatore all'interno di una unit¨¤.
-Il processo si suddivide in attivit¨¤, le attivit¨¤ vengono assengnati ai singoli.
+Ripasso processi aziendali(ref 07-02-19)
+
+Strategie di trasformazione dei processi
+Buy-side
+Mirata all'approvigionamento.
+Commodity: prodotto comune
+
+In-side
+Mirata alla trasformazione dei processi interni, riduzione di costi di funzionamento e della durata dei processi.
+Si appoggia ai sistemi ERP(Enterprise resource planning) sostenute da infrastrutture di rete(intranet).
+
+Sell-side
+Orientata ai processi di marketing, alla vendita e alla distribuzione.
+Si appoggia su sistemi CRM(Customer Relationship Management)
+
+Scomposizione del processo
+Il macroprocesso si scompone in processi.
+Process owner, il coordinatore del processo all'interno di una unit¨¤.
+Il processo si suddivide in fasi e attivit¨¤, le attivit¨¤ vengono assengnati ai singoli.
+Le attivit¨¤ si scompongono in operazioni.
+
+I principi della gestione per processi
+1. Diffondere la cuultura di processo
+2. Attivare catene interne di clienti e fornitori
+3. Individuare il process owner
+4. Bilanciare l'utilizzo delle logiche pull e push (Chi offre e chi chiede)
+5. Decentrare i processi di supporto e la gestione delle informazione
+6. Usare le tecnologie dell'informazione e della comunicazione per ridisegnare i processi
+7. Ricomporre le attivit¨¤ frammentate (Integrare i vari lavori)
+8. Introdurre la delega decisionale 
+9. Realizzare un'organizzazione snella (ridurre il lavoro per rendere i processi efficienti)
+
+Le tecnologie informatiche sono usate per:
+	- coordinare
+	- controllo
+	- rilevamento e allarme
+	- accumulo e riutilizzo di conoscenze (su un data warehouse o da un altra persona tramite uso di tecnologie)
+
+Enterprise resource plannin
+Web Information System
+Product Lifecycle Management
+Business Process Management System
