@@ -1,0 +1,18 @@
+Ripasso ref. 07-03
+
+Esercizio svolto:
+La visione per processi limita la *frammentazione* delle attivit¨¤, gestendo meglio il possibile le risorse, integrando i lavori e riducendo i tempi.
+Il *cliente interno* ¨¨ un'unit¨¤ organizzativa che utilizza l'output del processo in questione.
+*Cellular manifacturing*: raggruppare in un'unica area le tecnologie e le risorse necessarie alla realizzazione di pi¨´ prodotti simili dal punto di vista delle tecnologie necessarie.
+Il costo e la qualit¨¤ nell'*outsourcing* sono direttamente proporzionali.
+*Integrazione verticale*: presidio da parte dell'impresa di tutte le attivit¨¤ necessarie alla realizzazione e alla ventita dei propri prodotti.
+Processo per la selezione di pi¨´ fornitori: *vendor rating*.
+
+Efficienza - produttivit¨¤
+Prestazioni di costo - somma dei costi 
+Service lever agreement - elementi contrattuali che il cliente si aspetta
+Customer satisfaction - Una delle misure della qualit¨¤
+Tempo di ciclo - periodo dall'avvio alla fine del processo.
+Valutazione rapporto tempo e valore aggiunto.
+Flessibilit¨¤ di processo - rispondere ai cambiamenti. (Flessibilit¨¤ in piccolo)
+Oltre un certo range di variazione vi ¨¨ una discontinuit¨¤ nei costi di adeguamento.(Nuovi macchinari/Break even point)
