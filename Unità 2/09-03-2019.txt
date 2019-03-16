@@ -7,12 +7,3 @@ Il *cliente interno* ¨¨ un'unit¨¤ organizzativa che utilizza l'output del proces
 Il costo e la qualit¨¤ nell'*outsourcing* sono direttamente proporzionali.
 *Integrazione verticale*: presidio da parte dell'impresa di tutte le attivit¨¤ necessarie alla realizzazione e alla ventita dei propri prodotti.
 Processo per la selezione di pi¨´ fornitori: *vendor rating*.
-
-Efficienza - produttivit¨¤
-Prestazioni di costo - somma dei costi 
-Service lever agreement - elementi contrattuali che il cliente si aspetta
-Customer satisfaction - Una delle misure della qualit¨¤
-Tempo di ciclo - periodo dall'avvio alla fine del processo.
-Valutazione rapporto tempo e valore aggiunto.
-Flessibilit¨¤ di processo - rispondere ai cambiamenti. (Flessibilit¨¤ in piccolo)
-Oltre un certo range di variazione vi ¨¨ una discontinuit¨¤ nei costi di adeguamento.(Nuovi macchinari/Break even point)
