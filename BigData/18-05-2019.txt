@@ -1,0 +1,10 @@
+I Big Data.
+Questi Big Data si dinstinguono per 4 aspetti.
+Le 4 V: Volume, Variet¨¤, Velocit¨¤, Variabilit¨¤.
+Questi Big Data sono quindi una quantit¨¤ immensa di dati di tutti i generi che continuano a aumentare in modo imprevedibile.
+Il compito e la difficolt¨¤ degli informatici ¨¨ collegarli insieme e interpretarli per poterne trarre il valore.
+I Big Data possono rendere notevolmente pi¨´ efficienti i lavori.
+Veridicit¨¤: bisogna trovare modo di distinguere quali dati sono veri, e quindi potenzialmente utili, quali invece no.
+A questi dati viene attribuito un valore, che non pu¨° essere estratto se non vengono elaborati.
+Data Warehouse.
+Il data warehouse viene costruito estrando dati dai database per creare una raccolta di dati uniforme su cui lavorare.

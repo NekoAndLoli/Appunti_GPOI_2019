@@ -1,0 +1,3 @@
+Qualit¨¤ costo e tempo, 3 punti essenziali del roject management.
+La gestione del progetto si basa su WBS, il tempo viene gestito tramite gantt e tecniche reticolari(esse possono essere deterministiche(CPM) o sfocastiche(PERT) ).
+Deliverable: una tappa del progetto, fine di una fase o del progetto.

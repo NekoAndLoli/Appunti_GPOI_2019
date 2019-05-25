@@ -1,0 +1,95 @@
+Project management
+
+Il progetto: un processo finalizzato a realizzare un output in un tempo definito.
+Gestione del progetto: attivit¨¤ di pianificazione, esecuzione e di coordinamento di un progetto.
+Project manager: colui che gestisce il progetto.
+Il progetto ha un inizio e una fine che pu¨° comportare nella realizzazione dell'obiettivo o in un fallimento.
+Il progetto ¨¨ costituito da: 
+	l'obiettivo, 
+	limitazioni(temporali, economiche, personali o altro)
+	specificit¨¤ rispetto ad altri piani
+	organizzazione specifica del progetto
+Il progetto ¨¨ composto da 4 fasi: concezione, definizione, realizzazione, chiusura.
+Concezione: ideazione del progetto.
+Definizione: pianificazione del progetto in tutti gli aspetti(identificare attivit¨¤, struttura organizzativa, formulazione programma).
+Realizzazione: realizzazione concreta dell'output.
+Chiusura: verifica, rilascio.
+
+Anticipazione dei vincoli e delle opportunit¨¤: prevedere tutti i vincoli e le opportunit¨¤ che potrebbero emergere durante il progetto.
+I vincoli si presentano anche tra le varie attivit¨¤, in quanto un attivit¨¤ potrebbe necessitare del compimento di un'altra per poter procedere.
+I vincoli pongono difficolt¨¤, le opportunit¨¤ danno potenziale.
+In caso emergano vincoli o opportunit¨¤ impreviste il progetto va incontro a incovenienti.
+	Ricicli: si torna indietro per ripartire da una fase stabile, sprecando tempo e risorse.
+	Posticipazione dei problemi: si va a scaricare tali imprevisti sulle fasi finali, allungando il tempo, aumentando la complessit¨¤ e il costo.
+	Degrado dell'output: quando i costi e i tempi di modifica sono elevati si rinuncia alla correzione.
+I costi e i tempi necessari per tali cambiamenti aumentano con il proseguire del progetto.
+Per anticipare i vincoli in modo efficace bisogna abituarsi a: lavorare in team, coinvolgere persone di esperienza, agire con metodo.
+Coinvolgere fin dall'inizio i principali stakeholder, quindi si parte con un lavoro in team dall'inizio.
+Il gruppo non ¨¨ utile se somma di decisioni individuali.
+Non bisogna gettarsi all'implementazione per ottenere pi¨´ informazioni vista la difficolt¨¤ iniziale nella anticipazione dei vincoli. Gli attori di grande esperienza riescono a anticipare meglio tali vincoli.
+Esistono metodi di supporto per le fasi di concezione e definizione: riguardano la definizione degli obiettivi e il piano di progetto.
+
+Obiettivi di un Progetto
+Gli obiettivi possono essere di continuit¨¤ o specifici.
+Obiettivi di continuit¨¤: rappresentano le motivazioni verso l'attivazione del progetto da parte dell'azienda. (Imprenditore)
+Obiettivi specifici: sono le specifiche dell'output del progetto, vanno a definirne la qualit¨¤. (Responsabile del progetto)
+	Tempo: il tempo stabilito.
+	Costo: il budget disponibile.
+	Qualit¨¤: le prestazioni dell'output del progetto.
+Utilit¨¤: 	verificare la fattibilit¨¤ e la coerenza tra output, vincoli e obiettivi di continuit¨¤.
+	controllo del progetto, durante l'avanzamento si controlla sempre quali obiettivi sono stati realizzati
+	delineare aree di competenza e responsabilit¨¤
+SMART: gli obiettivi devono essere Specifici, Misurabili, Accordati, Realistici e Temporalmente definiti.
+
+Le tecnolligie informatiche
+Le tecnoligie informatiche comportano benefici tangibili(automatizzazione) e intangibili(efficientizzazione).
+Esempi: automatizzare un lavoro manuale(tangibile), uso di software soffisticati per la progettazione(intangibile).
+
+Strutture organizzative di un progetto
+Struttura funzionale: il progetto viene scomposto in sottoprogetti, ogni sottoprogetto viene assegnato a una funzione dell'impresa, ogni sottoprogetto ha un responsabile funzonale (RF). In una struttura funzionale i gruppi sono a tempo parziale, la gestione ¨¨ semplice perch¨¨ si adatta alla struttura dell'azienda, ma solo la direzione ¨¨ in grado di coordinare e monitorare il progetto.
+Task force: unit¨¤ organizzativa autonoma a tempo pieno con a capo il Project Manager (PM). Tutte le risorse coinvolte sono focalizzate sul progetto. Permette una buona coordinazione e un forte orientamento sull'obiettivo. Le risorse interne inutilizzate rappresentano uno spreco.
+La struttura funzionale privilegia l'efficienza nell'uso delle risorse, mentre la Task Forse privilegia il progetto stesso.
+Struttura a matrice: struttura ibrida con presenza di Project Manager, i membri coinvolti nel progetto rimangono nelle loro funzioni di partenza in modo che quando non sono impegnati nel progetto hanno comunque un lavoro da fare.
+
+Il Project Manager pu¨° assumere diversi pesi in base alle responsabilit¨¤ assegnate dalla direzione.
+Il Project Manager deve ottenere autorevolezza: di merito o di diritto.
+Di diritto: livello di committente, poteri delegati, livello nella struttura organizzativa.
+Di merito: abilit¨¤ tecniche, abilit¨¤ gestionali, leadership.
+Il project manager deve solo conoscere gli aspetti tecnici del progetto, non ¨¨ obbligato ad avere le abilit¨¤ per realizzarlo in persona.
+Il PM deve: saper impostare un progetto
+	anticipare le richieste del mercato e problematiche tecniche
+	saper coordinare un gran numero di risorse eterogenee
+	esercitare leadership per tenere il gruppo coeso
+	adattarsi allo stress
+	abilit¨¤ nel negoziare, nelle decisioni e nei conflitti tra le risorse o con altri progetti
+Gestione delle risorse
+Il conflitto: pu¨° stimolare l'avanzamento del progetto, ma si cerca di evitare perch¨¨ conferisce a una disarmonia nel gruppo.
+I conflitti possono essere dovuti a diversi motivi e possono svilupparsi in diverse direzioni.
+Per ridurre i conflitti si fa uso della matrice delle responsabilit¨¤ e dei rapporti, indicando chi ¨¨ responsabile di che cosa.
+
+Il Gruppo di lavoro
+I risultati di un gruppo sono maggiori alla somma dei lavori individuali.
+Ciclo di sviluppo di un gruppo: Forming, Stroming, Norming e Performing.
+Forming: formazione del gruppo, i membri devono conoscersi, fase potenziale di conflitti.
+Storming: effettiva formazione del gruppo.
+Norming: elevato confronto interno e influenza reciproca, assenza di conflitti interpersonali.
+Performing: matura consapevolezza dell'entit¨¤, concorrenza verso l'esterno.
+
+Comunicazione di progetto
+Reporting: aggiornamento e diffuzione delle informazioni attraverso report.
+Report: relazioni contenenti informazioni di progetto e diagrammi, le informazioni riportate devono essere essenziali e sintetiche.
+Soggetti
+PM: Project manager.
+Program board: comitato di coordinamento periodicamente aggiornato su cui sono riportati gli obiettivi.
+Project management Office: gruppo di specialisti che supportano i PM quando l'azienda deve gestire numerosi progetti.
+Membri del team
+Consulenti
+Stakeholder: tutti coloro che sono coinvolti nel progetto, esterni o interni siano
+Sponsor: colui che finanzia il progetto.
+Committente e utilizzatore finale: individuo che trae beneficio dall'output del progetto.
+
+Controllo dei costi
+La stima dei costi pu¨° essere Bottom-up o Top-down.
+Nel primo caso si parte dal WBS e si stima il costo di ogni livello, mentre nel secondo si parte da una somma e si va a distribuire.
+Da qui si va a definire il budget, esso deve essere inferiore al margine di guadagno stimato.
+
